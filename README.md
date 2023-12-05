@@ -72,7 +72,7 @@ Cycle Detected!
 ```
 
 ### 4. **Longest Increasing Subsequence:**
-
+---
 
 **Problem:**
 
