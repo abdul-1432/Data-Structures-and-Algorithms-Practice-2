@@ -3,6 +3,8 @@
 
 ### 1. **Find the Shortest Path in a Maze:**
 
+---
+
 **Problem:**
 
 Given a 2D maze, find the shortest path from the top-left corner to the bottom-right corner. You can move in four directions: up, down, left, and right. The maze is represented by a matrix where 0 represents an open cell and 1 represents a wall.
