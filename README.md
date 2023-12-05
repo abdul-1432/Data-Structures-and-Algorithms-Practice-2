@@ -1,5 +1,5 @@
-Absolutely! Here are some advanced DSA questions commonly asked at interview levels:
-
+# Data Structures and Algorithms Practice 2 
+---
 ### 1. **Find the Shortest Path in a Maze:**
 
 **Problem:**
