@@ -28,6 +28,7 @@ Shortest Path: [(0, 0), (1, 0), (2, 0), (2, 1), (2, 2), (2, 3), (2, 4), (3, 4), 
 ### 2. **LRU Cache Implementation:**
 
 ---
+
 **Problem:**
 
 Implement an LRU (Least Recently Used) cache. It should support get and put operations. When the cache reaches its capacity, it should evict the least recently used item before inserting a new item.
@@ -72,6 +73,7 @@ Cycle Detected!
 ```
 
 ### 4. **Longest Increasing Subsequence:**
+
 ---
 
 **Problem:**
@@ -92,6 +94,7 @@ Length of LIS: 6 (The LIS is [10, 22, 33, 50, 60, 80])
 
 ### 5. **Minimum Spanning Tree:**
 
+---
 
 **Problem:**
 
