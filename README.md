@@ -54,6 +54,7 @@ Cache Hit: 2
 
 ### 3. **Detect a Cycle in a Directed Graph:**
 
+---
 
 **Problem:**
 
