@@ -1,5 +1,7 @@
 # Data Structures and Algorithms Practice 2 
 ---
+
+
 ### 1. **Find the Shortest Path in a Maze:**
 
 **Problem:**
@@ -23,6 +25,7 @@ Shortest Path: [(0, 0), (1, 0), (2, 0), (2, 1), (2, 2), (2, 3), (2, 4), (3, 4), 
 ```
 
 ### 2. **LRU Cache Implementation:**
+
 
 **Problem:**
 
@@ -49,6 +52,7 @@ Cache Hit: 2
 
 ### 3. **Detect a Cycle in a Directed Graph:**
 
+
 **Problem:**
 
 Given a directed graph, detect if there is a cycle in it.
@@ -68,6 +72,7 @@ Cycle Detected!
 
 ### 4. **Longest Increasing Subsequence:**
 
+
 **Problem:**
 
 Given an unsorted array of integers, find the length of the longest increasing subsequence.
@@ -85,6 +90,7 @@ Length of LIS: 6 (The LIS is [10, 22, 33, 50, 60, 80])
 ```
 
 ### 5. **Minimum Spanning Tree:**
+
 
 **Problem:**
 
